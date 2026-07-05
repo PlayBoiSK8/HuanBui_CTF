@@ -6,7 +6,17 @@ Huấn Bùi là 1 trader khét tiếng trong giới , theo như dự đoán anh 
 
 
 
-Các kỹ thuật bên trong app bao gồm : Đa hình , làm rối , anti VMware , anti debug động và 1 số logic mình tự vẽ thêm vào ;P
+Các kỹ thuật bên trong app bao gồm : 
+
+\* \*\*Đa hình\*\* (Polymorphic algorithms)
+
+\* \*\*Làm rối\*\* (Obfuscation)
+
+\* \*\*Anti-Sandbox / Anti-VMware\*\* (Chống môi trường ảo hóa)
+
+\* \*\*Dynamic Anti-Debugging\*\* (Chống gỡ lỗi động)
+
+\* Và một số logic do mình tự vẽ thêm vào ;P
 
 
 
@@ -22,5 +32,9 @@ Các kỹ thuật bên trong app bao gồm : Đa hình , làm rối , anti VMwar
 
 
 
-Note : Ae có thể giải rất nhanh cùng AI ^^ Nhưng đối với mình đây là app chứa các kỹ thuật cơ bản nhất của các VXer đời đầu. Và nếu được ae hãy học cách viết ra các kỹ thuật này thay vì giải , lúc đó ae sẽ có cảm giác mình là 1 hoạ sĩ. Có lẽ đó cũng chính là những gì các bậc tiền bối thường mỉm cười khi họ kể lại !
+> \*\*Note:\*\* > Ae có thể giải rất nhanh cùng AI ^^. Nhưng đối với mình, đây là app chứa các kỹ thuật cơ bản nhất của các VXer đời đầu. Nếu được, ae hãy học cách \*\*viết ra các kỹ thuật này thay vì chỉ giải nó\*\*. Lúc đó, ae sẽ có cảm giác mình là một họa sĩ thực thụ. 
+
+> 
+
+> Có lẽ đó cũng chính là những gì các bậc tiền bối thường mỉm cười khi họ kể lại!
 
