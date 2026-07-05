@@ -12,7 +12,7 @@ Các kỹ thuật bên trong app bao gồm : Đa hình , làm rối , anti VMwar
 
 
 
-!\[Anti VMware](./antiVMware.png)
+!\[Anti VMware](https://github.com/PlayBoiSK8/HuanBui\_CTF/blob/main/antiVMware.png?raw=true)
 
 
 
