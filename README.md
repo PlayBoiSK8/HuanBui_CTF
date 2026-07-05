@@ -12,7 +12,7 @@ Các kỹ thuật bên trong app bao gồm : Đa hình , làm rối , anti VMwar
 
 
 
-!\[Anti VMware](./anti.png)
+!\[Xoahinhoaihemduoc](./anti.png)
 
 
 
