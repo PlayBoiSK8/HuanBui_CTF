@@ -16,7 +16,7 @@ Các kỹ thuật bên trong app bao gồm :
 
 \* Làm rối\*\* (Obfuscation)
 
-\* Anti-Sandbox / Anti-VMware\*\* (Chống môi trường ảo hóa)
+\* Anti-VMware\*\* (Chống môi trường ảo hóa)
 
 \* Dynamic Anti-Debugging\*\* (Chống gỡ lỗi động)
 
