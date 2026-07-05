@@ -12,7 +12,7 @@ Các kỹ thuật bên trong app bao gồm : Đa hình , làm rối , anti VMwar
 
 
 
-!\[Anti VMware](/antiVMware.png)
+!\[Anti VMware](antiVMware.png)
 
 
 
@@ -21,14 +21,4 @@ Các kỹ thuật bên trong app bao gồm : Đa hình , làm rối , anti VMwar
 
 
 Note : Ae có thể giải rất nhanh cùng AI ^^ Nhưng đối với mình đây là app chứa các kỹ thuật cơ bản nhất của các VXer đời đầu. Và nếu được ae hãy học cách viết ra các kỹ thuật này thay vì giải , lúc đó ae sẽ có cảm giác mình là 1 hoạ sĩ. Có lẽ đó cũng chính là những gì các bậc tiền bối thường mỉm cười khi họ kể lại !
-
-
-
-
-
-
-
-
-
-
 
