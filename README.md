@@ -13,7 +13,6 @@ Huấn Bùi là 1 trader khét tiếng trong giới , theo như dự đoán anh 
 
 Các kỹ thuật bên trong app bao gồm : 
 
-\* Đa hình\*\* (Polymorphic algorithms)
 
 \* Làm rối\*\* (Obfuscation)
 
