@@ -12,9 +12,11 @@ Các kỹ thuật bên trong app bao gồm : Đa hình , làm rối , anti VMwar
 
 
 
-!\[SaoUpHinhKhumDuocTT](./antiSandbox.png)
+<p align="center">
 
+&#x20; <img src="antiSandbox.png" alt="Anti Sandbox Technique">
 
+</p>
 
 
 
